@@ -1,0 +1,194 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.body{
+    color: #FEFDFA;
+}
+
+.sssss{
+    font-family: 'Gloock', serif; 
+    font-size: 60px;
+    margin-top: 60px;
+}
+
+
+.tedddd{
+    font-family: 'Gloock', serif; 
+    font-size: 40px;
+}
+.dateclr{
+    font-family: 'Gloock', serif; 
+    font-size: 40px;
+    color: #D0AC71;
+}
+.immmggg{
+    margin-top: 100px;
+}
+
+.color{
+    background-color: #D0AC71;
+    color: white;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+}
+.bttttn {
+   margin-top: 100px;
+}
+
+
+.testbg{
+width: 100%;
+height: 600px;
+background-image: url(./img/testbg.png);
+background-repeat: no-repeat;
+background-size: cover;
+/* margin-top: 100px; */
+}
+.tsssss{
+    font-family: 'Gloock', serif; 
+    font-size: 60px;
+    
+   
+}
+.tttttc{
+    color: white;
+    position: relative;
+    top: 100px;
+}
+
+.cadddd{
+    margin-top: 200px;
+}
+
+.insta{
+    margin-top: 100px;
+}
+.instasss{
+    font-family: 'Gloock', serif; 
+}
+
+.footer{
+
+    width: 100%;
+    height: 400px;
+    background-color: #0C0D12;
+    margin-top: 100px;
+}
+
+.stext{
+    position: relative;
+    top: 120px;
+    display: flex;
+    gap: 10px;
+ border: white solid 1px;
+ border-style: none;
+ background-color: transparent;
+    height: 40px;
+
+}
+
+.text{
+    padding-left: 40px;
+}
+.data{
+    margin-top: 150px;
+   
+}
+.dataimg img {
+    padding-top: 50px;
+   
+/* width: 40px; */
+display: flex;
+flex-direction: column;
+gap: 100px;
+}
+.tect,.qtext{
+    color: white;
+}
+.mmmmmm{
+    margin-top: 100px;
+}
+.font h1 {
+    font-family: 'Gloock', serif; 
+    font-size: 90px;
+    
+}
+
+.addbg{
+    width: 100%;
+    height: 600px;
+    background-color: #0C0D12
+    ;
+}
+
+.tcard{
+    width: 350px;
+    height: 250px;
+    background-color: #ffffff21;
+    border-radius: 5px;
+}
+.m{
+    margin: auto;
+}
+.fontsize{
+    font-size: 16px;
+}
+
+
+@media screen and (max-width:550px) {
+
+    .testbg{
+        width: 100%;
+        height: 1100px;
+        background-image: url(./img/testbg.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+       
+        }
+
+
+        .footer{
+
+            width: 100%;
+            height: 650px;
+            background-color: #0C0D12;
+            margin-top: 100px;
+        }
+
+        .imgsice{
+            margin-top: 50px;
+        }
+        .sssss{
+            font-family: 'Gloock', serif; 
+            font-size: 30px;
+            margin-top: 30px;
+        }
+
+        .addbg{
+            width: 100%;
+            height: 800px;
+            background-color: #0C0D12
+            ;
+        }
+        .aaaa{
+            font-size: 12px !important;
+        }
+
+        .tsssss{
+            font-family: 'Gloock', serif; 
+            font-size: 30px;
+            
+           
+        }
+
+
+
+
+
+}
